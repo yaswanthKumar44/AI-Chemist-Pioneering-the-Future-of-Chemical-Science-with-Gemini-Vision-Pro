@@ -30,14 +30,17 @@ Welcome to the **AI Chemist App**, an intelligent health management tool powered
 * **dotenv** — Environment variable management
 
 ---
+## 🚀 Demo-Video :https://www.linkedin.com/posts/yaswanth-kumar-peddagamalla-91443a288_ai-artificialintelligence-healthcareai-activity-7334456406051364864--QXK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXU66ABDU8KUG62xAonIZM7Pv4L0HRaOVs
+
+
 
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-chemist-app.git
-cd ai-chemist-app
+git clone https://github.com/yaswanthKumar44/AI-Chemist-Pioneering-the-Future-of-Chemical-Science-with-Gemini-Vision-Pro.git
+cd AI-Chemist-Pioneering-the-Future-of-Chemical-Science-with-Gemini-Vision-Pro
 ```
 
 ### 2️⃣ Install Dependencies
@@ -61,6 +64,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 ```bash
 streamlit run app.py
 ```
+
 
 ---
 
